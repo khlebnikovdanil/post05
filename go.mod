@@ -1,4 +1,4 @@
-module post05
+module github.com/khlebnikovdanil/post05
 
 go 1.24
 
