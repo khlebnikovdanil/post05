@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223e6abe-732f-4c46-9aef-f41d98804d4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-    </list>
+    <list default="true" id="223e6abe-732f-4c46-9aef-f41d98804d4a" name="Changes" comment="обновил модуль" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,8 +66,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994187" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.314438" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.314438" />
       <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.314438" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="make" side_tool="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -100,6 +99,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="обновил модуль" />
+    <option name="LAST_COMMIT_MESSAGE" value="обновил модуль" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
