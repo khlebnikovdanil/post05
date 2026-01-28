@@ -118,7 +118,7 @@ func DeleteUser(id int) error {
 	defer db.Close()
 
 	// Существует ли идентификатор?
-	statement := fmt.Sprintf(`SELECT "id" FROM "users" WHERE id = %d`, id)
+	statement := fmt.Sprintf(`SELECT "username" FROM "users" WHERE id = %d`, id)
 	rows, err := db.Query(statement)
 
 	var username string
